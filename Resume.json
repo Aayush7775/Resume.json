@@ -1,0 +1,131 @@
+{
+    "basics": {
+        "name": "Aayush Agarwal",
+        "label": "Student",
+        "picture": "",
+        "email": "2021kucp1135@iiitkota.ac.in",
+        "phone": "+917822915461",
+        "website": "",
+        "summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Computer Science & engineering. Building awesome WebApp. I have enthusiasm in Full Stack development.",
+        "location": {
+            "address": "Sikar Road",
+            "postalCode": "302039",
+            "city": "Jaipur",
+            "countryCode": " India",
+            "region": "Rajasthan"
+        },
+        "profiles": [
+            {
+                "network": "Twitter",
+                "username": "",
+                "url": ""
+            },
+            {
+                "network": "Github",
+                "username": "Aayush7775",
+                "url": "https://github.com/Aayush7775"
+            },
+            {
+                "network": "linkedin",
+                "username": "Aayush Agrawal",
+                "url": "https://www.linkedin.com/in/aayush-agarwal-35780a232/"
+            },
+            {
+                "network": "",
+                "username": "",
+                "url": ""
+            }
+        ]
+    },
+    "work": [
+        {
+            "company": "",
+            "position": "",
+            "website": "",
+            "startDate": "",
+            "endDate": "",
+            "summary": ""
+        },
+        
+        {
+            "company": "Hacker Earth",
+            "position": "Advanced Beginner",
+            "website": "https://www.hackerearth.com",
+            "startDate": "",
+            "endDate": "",
+            "summary": ""
+        }
+    ],
+    "education": [
+        {
+            "institution": "Indian Institute of Information Technology,Kota",
+            "area": "Engineering",
+            "studyType": "Bachelor (hons)",
+            "startDate": "",
+            "endDate": "",
+            "gpa": "",
+            "courses": [
+                "Computer Science & Engineering"
+            ]
+        }
+    ],
+    "awards": [
+        {
+            "title": "",
+            "awarder": "",
+            "date": ""
+        }
+    ],
+    "publications": [
+        {
+            "title": "",
+            "details": "",
+            "link": ""
+        },
+        
+    ],
+    "skills": [
+        {
+            "name": "",
+            "level": "",
+            "keywords": [
+                "HTML",
+                "CSS",
+                "C",
+                "Matlab",
+                "Javascript",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Native speaker"
+        }
+    ],
+    "interests": [
+        {
+            "name": "",
+            "keywords": [
+                ""
+            ]
+        },
+        {
+            "name": "Playing",
+            "keywords": [
+                "Cricket",
+                "Badminton"
+                
+            ]
+        }
+    ]
+}
